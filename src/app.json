@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/confirm/main",
+    "pages/phone/main",
+    "pages/authorize/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
